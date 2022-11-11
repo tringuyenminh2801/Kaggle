@@ -8,6 +8,7 @@ One of the well-known dataset for beginners. At this time I'm pretty new to the 
 This is the first time I experienced building neural networks on Google Colab, and with this small dataset, experimenting with different regularization techniques such as Dropout, BatchNorm, different activation functions (Tanh, Sigmoid or Softmax), using learning rate scheduler, hyperparameter tuning was really fun.
 
 The datasets: http://yann.lecun.com/exdb/mnist/
+
 VGG paper: https://arxiv.org/abs/1409.1556
 
 
@@ -23,8 +24,11 @@ Since it was the first time I used Pytorch, the experiences at the beginning wer
 After this mini-project, I learned a lot of how to use Python class, `Tuple`, `Dict`, `OrderedDict`, read more papers, become more active in learning new things. I think this is a big win for me :).
 
 The competition: www.kaggle.com/competitions/classification-of-plants-of-southeast-asia/
+
 The dataset: https://realtechsupport.org/projects/bali26_overview_bahasa.html
+
 The network architecture that I used: https://arxiv.org/pdf/1905.11946.pdf
+
 Some techniques that I find interesting during the project:
 1. Data augmentation: https://arxiv.org/pdf/2103.10158.pdf
 2. Cosine Annealing Learning Rate Scheduler: https://arxiv.org/pdf/1608.03983.pdf
